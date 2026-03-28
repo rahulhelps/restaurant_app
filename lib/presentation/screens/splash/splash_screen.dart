@@ -83,7 +83,7 @@ class _SplashScreenState extends State<SplashScreen>
                       Icon(Icons.restaurant, size: 80, color: Colors.orange),
                       SizedBox(height: 20),
                       Text(
-                        "Restaurant App",
+                        "Bouna Restaurant",
                         style: TextStyle(
                           fontSize: 22,
                           fontWeight: FontWeight.bold,
